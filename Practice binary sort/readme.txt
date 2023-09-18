@@ -1,0 +1,1 @@
+I wrote this code to practice my skills using the Javascript language and to improve my knowledge sorting algorithms. This one is based on the binary sort with a linear search. Javascript methods were not used in this example.
